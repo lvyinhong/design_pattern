@@ -1,0 +1,14 @@
+{
+    "name": "lyh/mycms",
+    "description": "a cms project desigin by a hard developer use php language",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lyh",
+            "email": "1903238820@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
